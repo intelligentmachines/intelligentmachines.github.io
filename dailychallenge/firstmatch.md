@@ -62,11 +62,18 @@ def first_match(A: np.ndarray, B: np.ndarray) -> np.ndarray:
 ```
 
 <details>
-  <summary> Bonus </summary>
+  <summary> [Bonus] </summary>
   
     While you can loop over and solve this problem, bonus points if you can do this in a single line of code!
   
 </details>
+
+## Leaderboard
+
+|  No.  |  Team Member  |   Timestamp   |
+| ----- | ------------- | ------------- |
+|   1   | Shakleen      |    4:33 PM    |
+
 
 ## Solutions
 
