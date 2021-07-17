@@ -78,4 +78,4 @@ def first_match(A: np.ndarray, B: np.ndarray) -> np.ndarray:
 
 ## Solutions
 
-Will be posted at a later time.
+The solutions are available [here](https://colab.research.google.com/drive/1IRTfgkQ1QWhrLX7FdcY5AmPz6eT-si4L?usp=sharing), along with some interesting performance analysis graphs.
