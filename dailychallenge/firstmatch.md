@@ -70,11 +70,11 @@ def first_match(A: np.ndarray, B: np.ndarray) -> np.ndarray:
 
 ## Leaderboard
 
-|  No.  |  Team Member  |   Timestamp   | Status |
-| ----- | ------------- | ------------- | ------ |
-|   1   | Shakleen      |    4:33 PM    |   ✅   |
-|   1   | Omar          |    5:53 PM    |   ✅   |
-
+|  Team Member  |       Timestamp        | Status |
+| ------------- | ---------------------- | ------ |
+| Shakleen      |    July 15, 4:33 PM    |   ✅   |
+| Omar          |    July 15, 5:53 PM    |   ✅   |
+| Rashed        |    July 15, 8:29 PM    |   ✅   |
 
 ## Solutions
 
