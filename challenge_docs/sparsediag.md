@@ -44,7 +44,7 @@ class DiagonalBlockMatrix():
         self.n = n
         self.k = k
 
-        self.diag = None  # Your task is to store A's block diagonal values in self.diag,
+        self.diags = None  # Your task is to store A's block diagonal values in self.diag,
                           # which will be an (n, n, k) array of block diagonals
         
         #####################
