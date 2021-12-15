@@ -4,5 +4,5 @@ These are meant to be fun tasks, aiming to challenge and improve our team member
 
 ## Challenge List
 
-- [First Match](./dailychallenge/firstmatch.md) -- `numpy`
-- [Sparse Diagonal Block Matrices](./dailychallenge/sparsediag.md) -- `numpy`, `linear algebra`
+- [First Match](./challenge_docs/firstmatch.md) -- `numpy`
+- [Sparse Diagonal Block Matrices](./challenge_docs/sparsediag.md) -- `numpy`, `linear algebra`
