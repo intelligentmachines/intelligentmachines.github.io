@@ -2,7 +2,7 @@
 
 A diagonal matrix is a matrix where only the elements on the principal diagonal can be non-zero.
 
-Let there be a matrix A, of dimensions nk x nk. A is made up of kxk non-overlapping diagonal matrices.
+Let there be a matrix A, of dimensions nk x nk. A is made up of k x k non-overlapping diagonal matrices.
 
 Example:
 
