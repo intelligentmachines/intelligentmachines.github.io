@@ -1,5 +1,11 @@
 # Sparse Diagonal Block Matrices
 
+*Author: Mashrur Morshed* <br>
+*Date: December 15, 2021* <br>
+*Topics: `numpy`, `block-matrix`, `matrix-multiplication`, `vectorization`, `linear-algebra`*
+
+---
+
 A diagonal matrix is a matrix where only the elements on the principal diagonal can be non-zero.
 
 Let there be a matrix A, of dimensions nk x nk. A is made up of k x k non-overlapping diagonal matrices.
@@ -134,7 +140,8 @@ array([[ 36,  0,  0,    54,  0,  0],
        [  0,154,  0,     0,256,  0],
        [  0,  0,208,     0,  0,322]])
 ```
-(Feel free to import any additional library if necessary.)
+
+**(Note: Feel free to import any additional library if you want, for both sub-tasks.)**
 
 <details>
   <summary> [Bonus] </summary>

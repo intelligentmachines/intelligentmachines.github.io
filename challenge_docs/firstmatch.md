@@ -1,5 +1,11 @@
 # First Match
 
+*Author: Mashrur Morshed* <br>
+*Date: July 15, 2021* <br>
+*Topics: `numpy`, `vectorization`*
+
+---
+
 Let there be two 2-D arrays, `A` and `B`, of shape `(R, N)` and `(R, M)` respectively. `A` and `B` have identical number of rows but different number of columns.
 
 For each column in `B`, find the index of the *first matching column* in `A` -- or return `0` if no matches are found for that column.
