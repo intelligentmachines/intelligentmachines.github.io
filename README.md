@@ -1,5 +1,3 @@
-## Intelligent Machines
+# Intelligent Machines -- Particle Jekyll Theme
 
-### Challenges
-
-Test yourself with our [challenges](./challenges.md).
+A minimalist fork of [nrandecker/particle](https://github.com/nrandecker/particle).
